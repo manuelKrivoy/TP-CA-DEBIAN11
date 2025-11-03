@@ -3,6 +3,7 @@
 ## 👥 Integrantes del grupo
 - Manuel Krivoy
 - Marcelo Sica
+- Lisandro Butti
 
 
 ## 🖥️ Descripción general
