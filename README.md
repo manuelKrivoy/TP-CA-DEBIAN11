@@ -17,12 +17,12 @@ En el repositorio se incluyen los siguientes archivos comprimidos:
 
 | Directorio | Archivo generado |
 |-------------|------------------|
-| `/root` | `root_bkp.tar.gz` |
-| `/etc` | `etc_bkp.tar.gz` |
-| `/opt` | `opt_bkp.tar.gz` |
-| `/www_dir` | `www_dir_bkp.tar.gz` |
-| `/backup_dir` | `backup_dir_bkp.tar.gz` |
-| `/var` | `var_part_aa`, `var_part_ab`, ... *(dividido en partes de hasta 24MB)* |
+| `/root` | `root.tar.gz` |
+| `/etc` | `etc.tar.gz` |
+| `/opt` | `opt.tar.gz` |
+| `/www_dir` | `www_dir.tar.gz` |
+| `/backup_dir` | `backup_dir.tar.gz` |
+| `/var` | `var_parte_aa`, `var_parte_ab`, ... *(dividido en partes de hasta 24MB)* |
 
 
 
